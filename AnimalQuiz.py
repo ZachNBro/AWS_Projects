@@ -13,11 +13,11 @@
     will be tallied and stored in a leaderboard. 
     
     You may check the leaderboard at any time. The leaderboard
-    will disolay the top scoered who have gotten all questions
-    correct. Try to get the highest score and prove your animal 
-    identification knowledge! This concept of this application
-    was developed based on the numerous quizes available online
-    that utilize visuals with questions.
+    will display the top scorers who have gotten all questions
+    correct followed by all others. Try to get the highest score 
+    and prove your animal identification knowledge! The concept 
+    of this application was developed based on the numerous quizes 
+    available online that utilize visuals with questions.
     
 """
 
