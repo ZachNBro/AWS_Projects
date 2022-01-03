@@ -1,5 +1,5 @@
 """
-    File name: AnimalQuiz.py
+    File name: animal_quiz.py
     Author: Zachary Brown
     
     ***USERS GUIDE***
