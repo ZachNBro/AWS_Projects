@@ -1,8 +1,6 @@
 """
     File name: AnimalQuiz.py
     Author: Zachary Brown
-    Date created: 12/06/2021
-    Date last modified: 12/10/2021
     
     ***USERS GUIDE***
     
