@@ -1,2 +1,2 @@
 # AWS_Projects
-AWS (Amazon Web Services) projects.
+This repository contains AWS (Amazon Web Services) projects.
